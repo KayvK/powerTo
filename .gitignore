@@ -1,0 +1,10 @@
+# Build Files
+a.out
+main.exe
+
+# Windows OS Files
+desktop.ini
+thumbs.db
+
+# MacOS Files
+.DS_store
