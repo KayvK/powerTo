@@ -1,6 +1,10 @@
 # Build Files
 a.out
+a.o
+a.exe
 main.exe
+main.s
+o_options.txt
 
 # Windows OS Files
 desktop.ini
